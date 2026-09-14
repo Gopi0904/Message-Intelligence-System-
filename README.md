@@ -171,14 +171,6 @@ This project demonstrates a complete machine learning workflow, from data prepro
 
 ---
 
-# 🎥 Project Explanation Video
-
-A complete explanation of this project, including dataset understanding, preprocessing, EDA, model building, evaluation, and comparison, is available here:
-
-**🔗 Explanatory Video :** 
-
----
-
 # 👨‍💻 Author
 
 **Gopi Gadara**
